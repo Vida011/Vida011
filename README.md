@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vida011
-- 👀 I’m interested in IT, travelling and and many other things
-- 🌱 I’m currently patiently learning JavaScript
+- 👀 I’m interested in IT, travelling and and many other things.
+- 🌱 I’m currently patiently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
